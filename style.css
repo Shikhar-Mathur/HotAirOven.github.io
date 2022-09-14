@@ -19,9 +19,9 @@ img{
 .name{
     color: white;
 }
+    
 
 .h1{
-    color: white;
-    padding-left: 100px;
-    
-}
+    color: yellow;
+    padding-left: 70px;font-weight: bold;font-size: 20px
+ }     
